@@ -1,0 +1,20 @@
+{
+  "name": "نادي جسور - تطبيق النشطاء",
+  "short_name": "جسور",
+  "description": "المنصة الرقمية المتكاملة لنشطاء نادي جسور - كلية العلوم الإسلامية، جامعة الجزائر 1",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#061513",
+  "theme_color": "#0A221F",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "./logo.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
